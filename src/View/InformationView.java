@@ -2,7 +2,7 @@ package View;
 
 public class InformationView {
     public void menu(){
-        System.out.println(" Witaj w menu dodawania samochodu oraz wyświetlania informacji o swoim samochodzie.");
+        System.out.println(" Witaj w menu dodawania samochodu oraz wyświetlania informacji o swoim pojeździe.");
         System.out.println(" Wybierz operację: ");
         System.out.println("1. Dodaj pojazd.");
         System.out.println("2. Wyświetl imformacje o pojeździe.");
